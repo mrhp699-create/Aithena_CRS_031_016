@@ -1,6 +1,6 @@
-# Aithena LMS - Learning Management System
+# Aithena Ai LMS - LMS With Ai Course Recommendation
 
-A comprehensive, production-ready Learning Management System (LMS) built with the MERN stack. Features role-based access control, interactive courses, assignments, quizzes with auto-grading, and text-to-speech functionality.
+A comprehensive, production-ready AI  (LMS) built with the MERN stack. Features role-based access control, interactive courses, assignments, quizzes with auto-grading, and text-to-speech functionality, Ab]d Ai Based Course recommendation
 
 ![Aithena LMS](https://via.placeholder.com/800x400/3b82f6/ffffff?text=Aithena+LMS)
 
@@ -14,6 +14,7 @@ A comprehensive, production-ready Learning Management System (LMS) built with th
 - **Auto-Grading Quizzes**: Build interactive quizzes with automatic scoring
 - **Progress Tracking**: Monitor student progress and course completion
 - **File Upload System**: Support for PDFs, videos, and documents via Cloudinary
+- **Course Recommendation**: Ai Model Based Course Recommendation 
 
 ### User Roles & Capabilities
 
